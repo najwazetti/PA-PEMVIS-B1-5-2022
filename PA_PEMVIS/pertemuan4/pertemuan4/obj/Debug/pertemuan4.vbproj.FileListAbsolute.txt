@@ -1,0 +1,168 @@
+c:\users\user\documents\visual studio 2012\Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\bin\Debug\mysql.data.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form2.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form3.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form4.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form5.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form6.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form7.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\bin\Debug\mysql.data.dll
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form2.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form3.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form4.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form5.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form6.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form7.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\User\Downloads\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form2.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form3.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form4.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form5.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form6.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form7.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form8.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form10.resources
+C:\Users\User\Downloads\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form9.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form10.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form2.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form3.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form4.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form5.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form6.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form7.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form8.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form9.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\pertemuan4\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form10.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form8.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form9.resources
+D:\prak-pemvis\PA\pertemuan4\pertemuan4\obj\Debug\pertemuan4.loading.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form1.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form10.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form2.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form3.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form4.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form5.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form6.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form7.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form8.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Form9.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.loading.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.Resources.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.pendataan.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.keranjang.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporanpembelian.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporanparfume.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.updatedata.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.login.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.jenis.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.brand.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.menuadmin.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.registrasi.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.order.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.Resources.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.pendataan.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.keranjang.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporanpembelian.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporanparfume.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.updatedata.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.login.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.jenis.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.brand.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.menuadmin.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.registrasi.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.order.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.Resources.resources
+C:\Users\wilda\Documents\SEMESTER 4\PA\PEMVIS\PA_PEMVIS-revisi1\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.exe
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.pdb
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\bin\Debug\pertemuan4.xml
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.pendataan.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.keranjang.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporanparfume.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.updatedata.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.login.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.jenis.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.brand.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.menuadmin.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.registrasi.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.order.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.Resources.resources
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\pertemuan4.vbproj.GenerateResource.Cache
+C:\Users\User\Downloads\PA_PEMVIS-RILL\PA_PEMVIS\pertemuan4\pertemuan4\obj\Debug\_pertemuan4.laporankeranjang.resources
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\bin\Debug\pertemuan4.exe.config
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\obj\Debug\pertemuan4.exe
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\obj\Debug\pertemuan4.xml
+C:\Users\User\Downloads\PA_PEMVIS\pertemuan4\obj\Debug\pertemuan4.pdb

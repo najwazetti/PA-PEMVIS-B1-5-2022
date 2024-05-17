@@ -1,0 +1,56 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+pertemuan4
+</name>
+</assembly>
+<members>
+<member name="P:_pertemuan4.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources._4e8c8a940e0b5fbc2f57fee088fa7928_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources._Pngtree_vector_shopping_bag_icon_3782002_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.pngtree_outline_bag_icon_symbol_isolated_png_image_1727847_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.tambahan_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.WhatsApp_Image_2024_04_24_at_20_27_51_42650268">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.WhatsApp_Image_2024_04_24_at_20_27_51_42650268_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.WhatsApp_Image_2024_04_24_at_20_27_51_4df87e31">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:_pertemuan4.My.Resources.Resources.WhatsApp_Image_2024_04_24_at_20_27_51_4df87e31_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:_pertemuan4.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
